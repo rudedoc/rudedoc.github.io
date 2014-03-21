@@ -1,3 +1,5 @@
-name: Rudedoc Blog
+name: rudeblog
 markdown: redcarpet
 pygments: true
+safe: true
+lsi: false

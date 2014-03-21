@@ -1,0 +1,3 @@
+name: Rudedoc Blog
+markdown: redcarpet
+pygments: true
